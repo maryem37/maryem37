@@ -134,7 +134,7 @@ Graded-confidence architecture with a numeric audit guardrail, aligned with EU A
 LangGraph Python FastAPI Mistral Qdrant ChromaDB PyTorch PostgreSQL/PostGIS React Docker
 
 <br/>
-Full-stack Developer Intern — BNS Engineering · Tunis · Jun–Aug 2025 Self-service service-catalog module (Agile/Scrum), secured Spring Boot REST API (~15 endpoints), React.js frontend, semantic chatbot for natural-language search.
+
 **Full-stack Developer Intern — BNS Engineering** · Tunis · Jun–Aug 2025
 Self-service service-catalog module (Agile/Scrum), secured Spring Boot REST API (~15 endpoints), React.js frontend, semantic chatbot for natural-language search.
 
