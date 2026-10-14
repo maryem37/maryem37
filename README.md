@@ -126,6 +126,15 @@ Multi-agent decision-support platform (9 microservices) for farmers and buyers: 
 
 ## 💼 Experience
 
+**Talan Tunisia: Summer Camp (AgriMent project)** · Tunis · Jul–Aug 2026 · 🏆 2nd place out of 10 teams (120+ participants) Built AgriMent, a multi-agent AI decision-support platform (9 microservices) for farmers and buyers, with dynamic multi-agent routing and a supervisor.
+
+Hybrid RAG on French regulation sources (Mistral embeddings + BM25 + RRF): 0.626 faithfulness (+14% vs. no RAG), 0.941 context precision, RAGAS scores validated by experts
+Fine-tuned a TempCNN crop classifier on Sentinel-2 imagery: 80.3% accuracy
+Graded-confidence architecture with a numeric audit guardrail, aligned with EU AI Act transparency rules
+LangGraph Python FastAPI Mistral Qdrant ChromaDB PyTorch PostgreSQL/PostGIS React Docker
+
+<br/>
+Full-stack Developer Intern — BNS Engineering · Tunis · Jun–Aug 2025 Self-service service-catalog module (Agile/Scrum), secured Spring Boot REST API (~15 endpoints), React.js frontend, semantic chatbot for natural-language search.
 **Full-stack Developer Intern — BNS Engineering** · Tunis · Jun–Aug 2025
 Self-service service-catalog module (Agile/Scrum), secured Spring Boot REST API (~15 endpoints), React.js frontend, semantic chatbot for natural-language search.
 
