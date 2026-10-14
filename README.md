@@ -26,6 +26,12 @@ Hi, I'm **Mariem Kbaier** 👋
 🔗 Exploring **agent-to-agent interoperability** (MCP · A2A)
 🌍 Looking for an **end-of-studies internship (PFE) in AI / MLOps**, preferably abroad
 
+### 🔭 Currently working on
+
+- 🔗 **Agent Interoperability Layer**: making LangGraph, CrewAI and OpenAI Agents SDK agents talk to each other through **MCP** and **A2A**
+- 📚 **Support Knowledge Copilot**: a RAG system for support teams, built with an MLOps mindset
+- 🧬 **AI Taxonomy**: a layered classification of the AI field
+
 ---
 
 ## 🛠️ Tech Stack
@@ -53,6 +59,22 @@ Hi, I'm **Mariem Kbaier** 👋
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E90FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
+
+<details>
+<summary><b>🔎 All skills in detail</b></summary>
+<br/>
+
+| Area | Skills |
+|---|---|
+| 🤖 **AI & ML** | LangGraph, LangChain, hybrid RAG (BM25/RRF), multi-agent systems, MCP, LLM evaluation (RAGAS), Mistral, Groq, Sentence-Transformers, ChromaDB, Qdrant, PyTorch, scikit-learn, XGBoost |
+| ☁️ **Cloud & MLOps** | AWS (IoT Core, Lambda, DynamoDB, API Gateway, SNS, S3), Docker, Docker Compose, GitHub Actions (CI/CD), Git, Maven |
+| 🗄️ **Data & messaging** | Apache Kafka, PostgreSQL/PostGIS, MySQL, NoSQL, Flyway |
+| 💻 **Languages** | Python, Java, JavaScript, SQL |
+| 🧱 **Frameworks** | Spring Boot, Spring Cloud Gateway, FastAPI, Flask, React.js, Streamlit |
+| 🧪 **Testing** | Cucumber, JUnit 5, RestAssured, Selenium |
+| 🧠 **Concepts** | Microservices, event-driven architecture, BDD, MLOps, Agile/Scrum |
+
+</details>
 
 ---
 
@@ -88,6 +110,9 @@ Multi-agent decision-support platform (9 microservices) for farmers and buyers: 
 | 🎟️ [**EventFlow**](https://github.com/maryem37/kafkaProject) | Ticketing backend, 5 microservices coordinated by Kafka events | Spring Boot · Kafka · Docker |
 | 📉 [**Churn Prediction**](https://github.com/maryem37/projet_ml_retail) | Churn, segmentation & spend forecast on 4,372 customers (XGBoost F1 0.955) | scikit-learn · XGBoost · Flask |
 | 📚 [**AI Knowledge Assistant**](https://github.com/maryem37/langchain_init/tree/main) | Conversational Q&A over long PDFs with local LLM | LangChain · FastAPI · Ollama |
+| 🛟 **Support Knowledge Copilot** | RAG system for support teams *(in progress)* | RAG · MLOps · FastAPI |
+| 🔬 **Research Paper Chatbot** | Multi-agent chatbot to explore research papers | n8n · LLM |
+| 🧪 **Mistral Q&A Agent** | Chatbot agent answering questions on Mistral (models, papers, benchmarks, code) | LLM · RAG |
 
 👉 All repositories: **[github.com/maryem37?tab=repositories](https://github.com/maryem37?tab=repositories)**
 
@@ -97,6 +122,13 @@ Multi-agent decision-support platform (9 microservices) for farmers and buyers: 
 
 **Full-stack Developer Intern — BNS Engineering** · Tunis · Jun–Aug 2025
 Self-service service-catalog module (Agile/Scrum), secured Spring Boot REST API (~15 endpoints), React.js frontend, semantic chatbot for natural-language search.
+
+---
+
+## 🎓 Education
+
+- **ENIS**: Engineering degree in Computer Science · Sfax, Tunisia · 2024 – present
+- **IPEIT**: Preparatory cycle (MPI) · Tunis, Tunisia · 2021 – 2024
 
 ---
 
