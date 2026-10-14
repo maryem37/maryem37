@@ -1,17 +1,16 @@
-<!-- Header animé (vague bleue) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66FF,100:00D4FF&height=230&section=header&text=Mariem&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Multi-Agent%20Systems&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66FF,100:00D4FF&height=230&section=header&text=Maryem%20Kbaier&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%40%20ENIS&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/maryem37">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00B4FF&center=true&vCenter=true&width=720&lines=Computer+Engineering+Student+%40+ENIS+%F0%9F%8E%93;Building+multi-agent+AI+systems+%F0%9F%A4%96;MLOps+%7C+RAG+%7C+Distributed+Backend+%E2%9A%99%EF%B8%8F;Looking+for+a+PFE+internship+in+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00B4FF&center=true&vCenter=true&width=760&lines=AI+%F0%9F%A4%96+%E2%80%A2+Data+Engineering+%F0%9F%93%8A+%E2%80%A2+RAG+%26+Multi-Agent+Systems;Building+intelligent+applications;Learning+by+doing+%F0%9F%9A%80;Looking+for+a+PFE+internship+in+AI" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=maryem37&color=0A66FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/maryem37?style=for-the-badge&color=0A66FF&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to-PFE%20Abroad-00B4FF?style=for-the-badge&logo=target&logoColor=white)
+![Repos](https://img.shields.io/badge/Repos-Public-1E90FF?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Open%20to-PFE%20Internship-00B4FF?style=for-the-badge&logo=target&logoColor=white)
 
 </div>
 
@@ -19,15 +18,13 @@
 
 ## 👩‍💻 About Me
 
-```python
-class Mariem:
-    def __init__(self):
-        self.role      = "Final-year Computer Engineering student @ ENIS, Tunisia 🇹🇳"
-        self.focus     = ["AI / ML", "MLOps", "Multi-Agent Systems", "Distributed Backend"]
-        self.building  = "Agent-to-agent interoperability (MCP · A2A)"
-        self.seeking   = "End-of-studies internship (PFE) in AI — abroad 🌍"
-        self.motto     = "Ship it, measure it, improve it."
-```
+Hi, I'm **Maryem Kbaier** 👋
+
+🎓 Final-year **Computer Engineering** student at **ENIS** (École Nationale d'Ingénieurs de Sfax), Tunisia 🇹🇳
+🤖 Passionate about **AI, Data Engineering, RAG & Multi-Agent Systems**
+🔗 Currently exploring **agent-to-agent interoperability** (MCP · A2A)
+🌍 Looking for an **end-of-studies internship (PFE) in AI**, abroad
+⚡ Building intelligent applications and learning by doing
 
 ---
 
@@ -49,7 +46,7 @@ class Mariem:
 ![n8n](https://img.shields.io/badge/n8n-0A66FF?style=for-the-badge&logo=n8n&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-1E90FF?style=for-the-badge&logo=mlflow&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,kubernetes,git,github,angular,ts,postgres,mongodb,linux,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,kubernetes,git,github,angular,ts,postgres,mongodb,linux,azure&theme=dark" alt="skills" />
 
 </div>
 
@@ -67,7 +64,7 @@ class Mariem:
 | 🔬 **Research Paper Chatbot** | Multi-agent chatbot to explore papers | n8n · LLM |
 | 🌱 **AI Agri Assistant** | AI assistant for young farmers & investors | n8n · LLM |
 
-> 👉 All repositories: **[github.com/maryem37?tab=repositories](https://github.com/maryem37?tab=repositories)**
+👉 All repositories: **[github.com/maryem37?tab=repositories](https://github.com/maryem37?tab=repositories)**
 
 ---
 
@@ -75,18 +72,16 @@ class Mariem:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maryem37&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00B4FF&icon_color=1E90FF&text_color=C9D1D9&border_color=0A66FF&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryem37&layout=compact&hide_border=false&bg_color=0D1117&title_color=00B4FF&text_color=C9D1D9&border_color=0A66FF" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=maryem37&background=0D1117&ring=00B4FF&fire=1E90FF&currStreakNum=00B4FF&sideNums=C9D1D9&currStreakLabel=00B4FF&sideLabels=C9D1D9&dates=8B949E&stroke=0A66FF&border=0A66FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maryem37&show_icons=true&bg_color=0D1117&title_color=00B4FF&icon_color=1E90FF&text_color=C9D1D9&border_color=0A66FF" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryem37&layout=compact&bg_color=0D1117&title_color=00B4FF&text_color=C9D1D9&border_color=0A66FF" alt="top languages" />
 
 </div>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryem37&bg_color=0D1117&color=00B4FF&line=0A66FF&point=FFFFFF&area=true&area_color=0A66FF&hide_border=true" width="100%" />
+<div align="center">
+<img src="https://ghchart.rshah.org/0A66FF/maryem37" alt="Contribution graph" width="100%" />
+</div>
 
 ### 🐍 Contribution Snake
 
@@ -98,10 +93,9 @@ class Mariem:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VOTRE-LIEN)
-[![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VOTRE-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00B4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://VOTRE-PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maryem--kbaier-0A66FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryem-kbaier-6a8632375)
+[![Email](https://img.shields.io/badge/Email-mariem.kbaier%40enis.tn-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariem.kbaier@enis.tn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66FF,100:00D4FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66FF,100:00D4FF&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
