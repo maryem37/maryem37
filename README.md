@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Mariem Kbaier" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/header.svg" width="100%" alt="Mariem Kbaier" />
 
 <a href="https://github.com/maryem37">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00B4FF&center=true&vCenter=true&width=800&lines=Multi-Agent+LLM+Systems+%F0%9F%A4%96;Measurable+RAG+Pipelines+%F0%9F%93%8A;From+prototype+to+deployment+%E2%80%94+Docker%2C+CI%2FCD%2C+AWS+%E2%98%81%EF%B8%8F;2nd+place+%E2%80%94+Talan+Summer+Camp+2026+%F0%9F%8F%86;Looking+for+a+PFE+internship+in+AI+%F0%9F%9A%80" alt="Typing SVG" />
@@ -169,6 +169,6 @@ Self-service service-catalog module (Agile/Scrum), secured Spring Boot REST API 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maryem--kbaier-0A66FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryem-kbaier-6a8632375)
 [![Email](https://img.shields.io/badge/Email-mariem.kbaier%40enis.tn-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariem.kbaier@enis.tn)
 
-<img src="assets/footer.svg" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/footer.svg" width="100%" alt="footer" />
 
 </div>
