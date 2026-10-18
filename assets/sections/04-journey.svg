@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88"><defs><linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06173A"/><stop offset="1" stop-color="#0B2F73"/></linearGradient>
-<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A66FF"/><stop offset="1" stop-color="#12C6A5"/></linearGradient>
-<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#CFE0FF"/><stop offset="1" stop-color="#7FB0FF"/></linearGradient>
-<linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8DBBFF"/><stop offset="1" stop-color="#8FF2DA"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#0A3D91" flood-opacity=".10"/></filter></defs><rect x="1" y="5" width="1198" height="76" rx="20" fill="#fff" stroke="#DCE7F8" stroke-width="2" filter="url(#sh)"/>
-<text x="30" y="66" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-2" fill="none" stroke="#B7CEF5" stroke-width="1.6">04</text>
-<rect x="116" y="26" width="4" height="40" rx="2" fill="#0A66FF"/>
-<text x="134" y="36" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="3" fill="#0A66FF">WHERE I'VE BEEN</text>
-<text x="132" y="67" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#0B1F44">Journey</text>
-<path d="M319 52 H1156" stroke="#DCE7F8" stroke-width="2"/><rect x="1160" y="47" width="10" height="10" rx="2.5" fill="#12C6A5"/></svg>
