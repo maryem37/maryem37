@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/hero.svg?v=11" width="100%" alt="Mariem Kbaier, Data & AI Engineer" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/hero.svg?v=12" width="100%" alt="Mariem Kbaier, Data & AI Engineer" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/sections/01-about.svg?v=11" width="100%" alt="about" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/sections/01-about.svg?v=12" width="100%" alt="about" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/about.svg?v=11" width="100%" alt="About Mariem" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/about.svg?v=12" width="100%" alt="About Mariem" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/sections/02-stack.svg?v=11" width="100%" alt="stack" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/sections/02-stack.svg?v=12" width="100%" alt="stack" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/skills.svg?v=11" width="100%" alt="Technology stack" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/skills.svg?v=12" width="100%" alt="Technology stack" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/sections/03-work.svg?v=11" width="100%" alt="work" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/sections/03-work.svg?v=12" width="100%" alt="work" />
 
 <div align="center">
 
-<a href="https://github.com/maryem37/AgriGuide_Project"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/cards/01-agriment.svg?v=11" width="49%" alt="agriment" /></a>
-<a href="https://github.com/maryem37/RagAndLoopVersionTestProject"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/cards/02-vortex.svg?v=11" width="49%" alt="vortex" /></a>
-<a href="https://github.com/maryem37/AI-Job-Matcher-Career-Coach-Pipeline"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/cards/03-job-matcher.svg?v=11" width="49%" alt="job-matcher" /></a>
-<a href="https://github.com/maryem37/projet_ml_retail"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/cards/04-churn.svg?v=11" width="49%" alt="churn" /></a>
-<a href="https://github.com/maryem37/AWS_Vehicle_Tracker"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/cards/05-fleetpro.svg?v=11" width="49%" alt="fleetpro" /></a>
-<a href="https://github.com/maryem37/kafkaProject"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/cards/06-eventflow.svg?v=11" width="49%" alt="eventflow" /></a>
+<a href="https://github.com/maryem37/AgriGuide_Project"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/cards/01-agriment.svg?v=12" width="49%" alt="agriment" /></a>
+<a href="https://github.com/maryem37/RagAndLoopVersionTestProject"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/cards/02-vortex.svg?v=12" width="49%" alt="vortex" /></a>
+<a href="https://github.com/maryem37/AI-Job-Matcher-Career-Coach-Pipeline"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/cards/03-job-matcher.svg?v=12" width="49%" alt="job-matcher" /></a>
+<a href="https://github.com/maryem37/projet_ml_retail"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/cards/04-churn.svg?v=12" width="49%" alt="churn" /></a>
+<a href="https://github.com/maryem37/AWS_Vehicle_Tracker"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/cards/05-fleetpro.svg?v=12" width="49%" alt="fleetpro" /></a>
+<a href="https://github.com/maryem37/kafkaProject"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/cards/06-eventflow.svg?v=12" width="49%" alt="eventflow" /></a>
 
 </div>
 
@@ -29,15 +29,15 @@
 
 **Also:** [AI Knowledge Assistant](https://github.com/maryem37/langchain_init/tree/main) (RAG over long PDFs) · Agent Interoperability Layer (MCP + A2A, in progress) · Support Knowledge Copilot · Research Paper Chatbot (n8n) · Mistral Q&A Agent · AI Taxonomy · [all repositories](https://github.com/maryem37?tab=repositories)
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/sections/04-journey.svg?v=11" width="100%" alt="journey" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/sections/04-journey.svg?v=12" width="100%" alt="journey" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/journey.svg?v=11" width="100%" alt="Experience and education" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/journey.svg?v=12" width="100%" alt="Experience and education" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/sections/05-recognition.svg?v=11" width="100%" alt="recognition" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/sections/05-recognition.svg?v=12" width="100%" alt="recognition" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/recognition.svg?v=11" width="100%" alt="Awards, certifications and languages" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/recognition.svg?v=12" width="100%" alt="Awards, certifications and languages" />
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/sections/06-activity.svg?v=11" width="100%" alt="activity" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/sections/06-activity.svg?v=12" width="100%" alt="activity" />
 
 <div align="center">
 
@@ -46,16 +46,16 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/sections/07-contact.svg?v=11" width="100%" alt="contact" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/sections/07-contact.svg?v=12" width="100%" alt="contact" />
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/maryem-kbaier-6a8632375"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/contact-linkedin.svg?v=11" width="32%" alt="LinkedIn" /></a>
-<a href="mailto:mariem.kbaier@enis.tn"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/contact-email.svg?v=11" width="32%" alt="Email" /></a>
-<a href="https://github.com/maryem37"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/contact-github.svg?v=11" width="32%" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/maryem-kbaier-6a8632375"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/contact-linkedin.svg?v=12" width="32%" alt="LinkedIn" /></a>
+<a href="mailto:mariem.kbaier@enis.tn"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/contact-email.svg?v=12" width="32%" alt="Email" /></a>
+<a href="https://github.com/maryem37"><img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/contact-github.svg?v=12" width="32%" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/assets/footer.svg?v=11" width="100%" alt="while (curious) {{ train(); evaluate(); ship(); }}" />
+<img src="https://raw.githubusercontent.com/maryem37/maryem37/main/img/footer.svg?v=12" width="100%" alt="while (curious) {{ train(); evaluate(); ship(); }}" />
 
 </div>
